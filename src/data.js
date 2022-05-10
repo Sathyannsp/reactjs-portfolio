@@ -1,22 +1,27 @@
+import stopwatch from "./img/stopwatch.png";
+import todo from "./img/todo.png";
+import rps from "./img/rps.png";
+import quizApp from "./img/quiz-app.png";
+
 export const products = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    link: "http://google.com",
+    img: stopwatch,
+    link: "https://nsp-stopwatch.herokuapp.com/",
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    link: "http://google.com",
+    img: todo,
+    link: "https://nsp-todo.herokuapp.com/",
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    link: "http://google.com",
+    img: rps,
+    link: "https://rps-nsp.herokuapp.com/",
   },
   {
     id: 4,
-    img: "https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    link: "http://google.com",
+    img: quizApp,
+    link: "https://millionaire-quiz-app.herokuapp.com/",
   },
 ];
