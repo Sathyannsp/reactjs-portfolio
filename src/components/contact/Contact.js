@@ -54,7 +54,7 @@ const Contact = () => {
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>Get in touch!</b> Available for freelancing.
+            <b>Get in touch!</b>
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input
