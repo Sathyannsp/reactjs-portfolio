@@ -15,10 +15,8 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+            Web developer with experience in designing and developing user
+            interfaces, testing and debugging
           </p>
         </div>
         <svg
