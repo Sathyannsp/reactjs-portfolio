@@ -6,22 +6,22 @@ import quizApp from "./img/quiz-app.png";
 export const products = [
   {
     id: 1,
-    img: stopwatch,
-    link: "https://nsp-stopwatch.herokuapp.com/",
-  },
-  {
-    id: 2,
-    img: todo,
-    link: "https://nsp-todo.herokuapp.com/",
-  },
-  {
-    id: 3,
     img: rps,
     link: "https://rps-nsp.herokuapp.com/",
   },
   {
-    id: 4,
+    id: 2,
     img: quizApp,
     link: "https://millionaire-quiz-app.herokuapp.com/",
+  },
+  {
+    id: 3,
+    img: todo,
+    link: "https://nsp-todo.herokuapp.com/",
+  },
+  {
+    id: 4,
+    img: stopwatch,
+    link: "https://nsp-stopwatch.herokuapp.com/",
   },
 ];

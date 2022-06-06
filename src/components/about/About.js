@@ -1,7 +1,7 @@
 import "./About.css";
 import College from "../../img/college.png";
 import Me from "../../img/mee.png";
-import Resume from "../../resume.pdf";
+import Resume from "../../Sathyan_2022.pdf";
 
 const About = () => {
   return (
@@ -33,7 +33,7 @@ const About = () => {
         <p className="a-sub">
           First solve the problem. Then write the code – John Johnson
         </p>
-        <a href={Resume} target="_blank" className="a-resume">
+        <a href={Resume} target="_blank" rel="noreferrer" className="a-resume">
           For More About Me !!!
         </a>
       </div>
