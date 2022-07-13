@@ -15,17 +15,14 @@ const About = () => {
       </div>
       <div className="w-right">
         <h1 className="w-title">Work Experience</h1>
-        <p className="w-sub">Systems Engineer</p>
-        <p className="w-desc">
-          2018 - 2019 : Analyst <br />
-          2020 - Present : Web Developer
-        </p>
+        <p className="w-sub">Full Stack Developer</p>
+        <p className="w-desc">2018 - Present</p>
         <div className="w-award">
           <div className="w-award-texts">
             <h4 className="w-awards-title">Technologies Used</h4>
             <p className="w-award-desc">
-              Analyst : MSSQL, VBA, SAS EG, Python <br />
-              Web Developer : ReactJS, Spring Boot
+              HTML, CSS, JavaScript <br />
+              ReactJS, Spring Boot
             </p>
           </div>
         </div>

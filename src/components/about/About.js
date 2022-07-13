@@ -1,7 +1,7 @@
 import "./About.css";
 import College from "../../img/college.png";
 import Me from "../../img/mee.png";
-import Resume from "../../Sathyan_2022.pdf";
+import Resume from "../../Sathyan_Natarajan.pdf";
 
 const About = () => {
   return (
