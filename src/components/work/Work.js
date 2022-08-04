@@ -21,8 +21,9 @@ const About = () => {
           <div className="w-award-texts">
             <h4 className="w-awards-title">Technologies Used</h4>
             <p className="w-award-desc">
-              HTML, CSS, JavaScript <br />
-              ReactJS, Spring Boot
+              Java, Spring Boot
+              <br />
+              JavaScript, ReactJS
             </p>
           </div>
         </div>
