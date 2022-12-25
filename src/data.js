@@ -7,21 +7,21 @@ export const products = [
   {
     id: 1,
     img: rps,
-    link: "https://rps-nsp.herokuapp.com/",
+    link: "https://rps-nsp.netlify.app",
   },
   {
     id: 2,
     img: quizApp,
-    link: "https://millionaire-quiz-app.herokuapp.com/",
+    link: "https://millionairequizapp.netlify.app",
   },
   {
     id: 3,
     img: todo,
-    link: "https://nsp-todo.herokuapp.com/",
+    link: "https://nsp-todo.netlify.app",
   },
   {
     id: 4,
     img: stopwatch,
-    link: "https://nsp-stopwatch.herokuapp.com/",
+    link: "https://nsp-stopwatch.netlify.app",
   },
 ];
